@@ -30,8 +30,8 @@ I'm a **Software Developer** and **Mathematician (PhD)**  passionate about trans
 ## 🌱 Currently Exploring
 - Large Language Models (LLMs) and their mathematical underpinnings  
 - Advanced deep learning architectures and fine-tuning methods
-- **AI Agentic Systems** — building intelligent, autonomous AI agents capable of reasoning, planning, and tool use  
-- **AI Automations** — integrating LLMs into pipelines for workflow automation and decision-making 
+- **AI Agentic Systems:** building intelligent, autonomous AI agents capable of reasoning, planning, and tool use  
+- **AI Automations:** integrating LLMs into pipelines for workflow automation and decision-making 
 
 ---
 
