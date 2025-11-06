@@ -7,7 +7,7 @@ I'm a **Software Developer** and **Mathematician (PhD)**  passionate about trans
 
 ## 🧩 About Me
 - Over **three years of software development experience** and  building web and mobile applications for clients in the finance and tech sectors.
-- Over **five years of experience tackling data-driven and AI-focused problems** as a researcher and academic, bridging mathematics, logic. 
+- Over **five years of experience tackling data-driven and AI-focused problems** as a researcher and academic, bridging mathematics and logic. 
 - Enjoy blending **rigorous mathematical research** with **hands-on engineering** to design intelligent systems.
 - Passionate about **LLMs**, **mathematical modeling**, and **scientific computing**, with a focus on building intelligent, interpretable systems.  
 - I love blending **rigorous theoretical insight** with **hands-on engineering** to create impactful, data-centric technologies.  
