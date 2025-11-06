@@ -47,7 +47,7 @@ Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com
 
 ## ☕ Fun Facts
 - I start every morning with a **hand-crafted latte** ☕ (and some latte art 🎨).  
-- I enjoy **playing the violin**, **reading philosophy**, and **hiking**.  
+- I enjoy **exploring philosophy**, **reading novels**, and **hiking in nature**.  
 - Proud cat owner 🐱 and lifelong learner.
 
 ---
