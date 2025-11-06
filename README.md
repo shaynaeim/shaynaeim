@@ -16,8 +16,8 @@ I love exploring the intersection of **mathematical modeling**, **machine learni
 
 ## 🔧 Tech Stack & Skills
 
-- **Frontend: React, Angular, JavaScript, TypeScript, HTML/CSS
-- **Backend: Node.js, GraphQL
+- **Frontend:** React, Angular, JavaScript, TypeScript, HTML/CSS
+- **Backend:** Node.js, GraphQL
 - **Frameworks:** React, Redux, Angular, Node.js  
 - **Data & ML Tools:** NumPy, SciPy, Pandas, scikit-learn, TensorFlow, PyTorch, Keras  
 - **Databases:** MySQL, PostgreSQL  
