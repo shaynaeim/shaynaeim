@@ -16,15 +16,15 @@ I love exploring the intersection of **mathematical modeling**, **machine learni
 
 ## 🔧 Tech Stack & Skills
 
-**Frontend: React, Angular, JavaScript, TypeScript, HTML/CSS
-**Backend: Node.js, GraphQL
-**Frameworks:** React, Redux, Angular, Node.js  
-**Data & ML Tools:** NumPy, SciPy, Pandas, scikit-learn, TensorFlow, PyTorch, Keras  
-**Databases:** MySQL, PostgreSQL  
-**Version Control:** Git, GitHub, GitLab  
-**Dev Tools:** Docker, Atlassian Jira & Confluence, Asana, Harvest  
-**Visualization:** Matplotlib, Seaborn 
-**AI Technologies: GitHub Co-pilot, Cline, Claude Code
+- **Frontend: React, Angular, JavaScript, TypeScript, HTML/CSS
+- **Backend: Node.js, GraphQL
+- **Frameworks:** React, Redux, Angular, Node.js  
+- **Data & ML Tools:** NumPy, SciPy, Pandas, scikit-learn, TensorFlow, PyTorch, Keras  
+- **Databases:** MySQL, PostgreSQL  
+- **Version Control:** Git, GitHub, GitLab  
+- **Dev Tools:** Docker, Atlassian Jira & Confluence, Asana, Harvest  
+- **Visualization:** Matplotlib, Seaborn 
+- **AI Technologies: GitHub Co-pilot, Cline, Claude Code
 ---
 
 ## 🌱 Currently Exploring
