@@ -24,7 +24,7 @@ I love exploring the intersection of **mathematical modeling**, **machine learni
 - **Version Control:** Git, GitHub, GitLab  
 - **Dev Tools:** Docker, Atlassian Jira & Confluence, Asana, Harvest  
 - **Visualization:** Matplotlib, Seaborn 
-- **AI Technologies: GitHub Co-pilot, Cline, Claude Code
+- **AI Technologies:** GitHub Co-pilot, Cline, Claude Code
 ---
 
 ## 🌱 Currently Exploring
