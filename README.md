@@ -1,8 +1,7 @@
 
 # Hi there, I'm Shayesteh (Shay) Naeim! 👋  
 
-I'm a **Software Engineer** and **Mathematician (PhD)** passionate about applying advanced mathematics and engineering to solve real-world, data-driven problems.  
-I love exploring the intersection of **mathematical modeling**, **machine learning**, and **software engineering** — bringing abstract theory into practical, scalable solutions.  
+I'm a **Software Engineer** and **Mathematician (PhD)** passionate about applying advanced mathematics and engineering to solve real-world, data-driven problems. I love exploring the intersection of **mathematical modeling**, **machine learning**, and **software engineering** — bringing abstract theory into practical, scalable solutions.  
 
 ---
 
