@@ -1,15 +1,17 @@
 
 # Hi there, I'm Shayesteh (Shay) Naeim! 👋  
 
-I'm a **Software Engineer** and **Mathematician (PhD)** passionate about applying advanced mathematics and engineering to solve real-world, data-driven problems. I love exploring the intersection of **mathematical modeling**, **machine learning**, and **software engineering** — bringing abstract theory into practical, scalable solutions.  
+I'm a **Software Engineer** and **Mathematician (PhD)**  passionate about transforming complex, data-driven challenges into intelligent, elegant solutions.  
+With over **3 years of software development experience** and **5+ years of experience in data-driven research and Artificial Intelligence**, I bring together strong mathematical reasoning and modern engineering practices to build scalable, explainable, and high-impact AI systems.
 
 ---
 
 ## 🧩 About Me
-- 🎓 PhD in Mathematics from the **University of Ottawa**, with research focused on **Applied Category Theory** and its application in **Artificial Intelligence**.  
-- 💻 Over **three years of software development experience** building web and mobile applications for clients in the finance and tech sectors.  
-- 🔍 Experienced in Python, JavaScript/TypeScript, React, and more.  
-- 🧠 Enjoy blending **rigorous mathematical research** with **hands-on engineering** to design intelligent systems.  
+- Over **Three years of software development experience** and  building web and mobile applications for clients in the finance and tech sectors.
+- Over **five years of experience tackling data-driven and AI-focused problems** as a researcher and academic, bridging mathematics, logic, and machine learning. 
+- Enjoy blending **rigorous mathematical research** with **hands-on engineering** to design intelligent systems.
+- Passionate about **LLMs**, **mathematical modeling**, and **scientific computing**, with a focus on building intelligent, interpretable systems.  
+- I love blending **rigorous theoretical insight** with **hands-on engineering** to create impactful, data-centric technologies.  
 
 ---
 
