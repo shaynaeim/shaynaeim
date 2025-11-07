@@ -52,7 +52,6 @@ Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com
 
 ---
 
-### 📫 Contact
-📧 **naeim.shay@gmail.com**  
+### 📫 Contact 
 🔗 [LinkedIn](https://www.linkedin.com/in/shayesteh-naeim)  
 🐙 [GitHub](https://github.com/namesurname)
