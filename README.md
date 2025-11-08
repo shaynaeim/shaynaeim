@@ -41,7 +41,7 @@ I’m always open to collaborating on:
 - Mathematical modeling or data-driven solutions  
 - Full-stack applications with intelligent or scientific components  
 
-Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/shayesteh-naeim) or check out my repositories here on GitHub!  
+Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/shaynaeim) or check out my repositories here on GitHub!  
 
 ---
 
@@ -53,5 +53,4 @@ Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com
 ---
 
 ### 📫 Contact 
-🔗 [LinkedIn](https://www.linkedin.com/in/shayesteh-naeim)  
-🐙 [GitHub](https://github.com/namesurname)
+🔗 [LinkedIn](https://www.linkedin.com/in/shaynaeim) 
