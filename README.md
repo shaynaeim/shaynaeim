@@ -21,7 +21,7 @@ I'm a **Software Developer** and **Mathematician (PhD)**  passionate about trans
 - **Frameworks:** React, Redux, Angular, Node.js  
 - **Data & ML Tools:** NumPy, SciPy, Pandas, scikit-learn, TensorFlow, PyTorch, Keras  
 - **Databases:** MySQL, PostgreSQL  
-- **Version Control:** Git, GitHub, GitLab  
+- **Version Control:** Git  
 - **Dev Tools:** Docker, Atlassian Jira & Confluence, Asana, Harvest  
 - **Visualization:** Matplotlib, Seaborn 
 - **AI Technologies:** GitHub Co-pilot, Cline, Claude Code
