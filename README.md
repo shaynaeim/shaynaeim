@@ -1,12 +1,12 @@
 
 # Hi there, I'm Shayesteh (Shay) Naeim! 👋  
 
-I'm a **Software Developer** and **Mathematician (PhD)**  passionate about transforming complex, data-driven challenges into intelligent, elegant solutions. With over **3 years of software development experience** and **5+ years of experience in data-driven research and Artificial Intelligence**, I bring together strong mathematical reasoning and modern engineering practices to build scalable, explainable, and high-impact AI systems.
+I'm a **Data Scientist/Software Developer** and **Mathematician (PhD)**  passionate about transforming complex, data-driven challenges into intelligent, elegant solutions. With over **3 years of experience** in AI, machine learning, and building software applications, I bring together strong mathematical reasoning and modern engineering practices to build scalable, explainable, and high-impact AI systems.
 
 ---
 
 ## 🧩 About Me
-- Over **three years of software development experience** and  building web and mobile applications for clients in the finance and tech sectors.
+- Over **three years of software development experience** in AI, machine learning, and building software applications for clients in the finance and tech sectors.
 - Over **five years of experience tackling data-driven and AI-focused problems** as a researcher and academic, bridging mathematics and logic. 
 - Enjoy blending **rigorous mathematical research** with **hands-on engineering** to design intelligent systems.
 - Passionate about **LLMs**, **mathematical modeling**, and **scientific computing**, with a focus on building intelligent, interpretable systems.  
