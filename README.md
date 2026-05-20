@@ -6,7 +6,7 @@ I'm a **Data Scientist/Software Developer** and **Mathematician (PhD)** passiona
 ---
 
 ## 🧩 About Me
-- Over **four years of software development experience** in AI, machine learning, and building software applications for clients in the finance and tech sectors.
+- Over **three years of software development experience** in AI, machine learning, and building software applications for clients in the finance and tech sectors.
 - Over **five years of experience tackling data-driven and AI-focused problems** as a researcher and academic, bridging mathematics and logic.
 - Hands-on experience designing **RAG systems**, **multimodal LLM pipelines**, and **autonomous agents** that reason, plan, and use tools.
 - Enjoy blending **rigorous mathematical research** with **hands-on engineering** to design intelligent, interpretable systems.
